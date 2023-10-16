@@ -1,0 +1,4 @@
+CREATE TABLE example (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  data VARCHAR(255)
+);
